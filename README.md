@@ -1,4 +1,4 @@
-    ##OOP-Project
+    # Multi_inheritance_company_managment
     
     The main idea of this project is to implement some basic concepts of inheritance
     in C++ aside the other OOP principles, 
